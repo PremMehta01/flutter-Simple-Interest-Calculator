@@ -1,4 +1,4 @@
-# SICalculato-in-FLUTTER
+# SI_Calculator-in-FLUTTER
 
 
 <img align="left" src="https://user-images.githubusercontent.com/49603163/57509559-264a5a00-7322-11e9-954c-60c0ad5efcd4.jpg" width="400">
